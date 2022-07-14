@@ -47,7 +47,7 @@
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="index.html" class="logo">
-              <h4>SEO Dream <img src="assets/images/logo-icon.png" alt=""></h4>
+              <img  src="https://i0.wp.com/www.lldikti4.id/wp-content/uploads/2021/09/LLDIKTI-LOGOrev1-1.png?resize=300%2C56&ssl=1" width="10%" style="margin-top: 20px">
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
