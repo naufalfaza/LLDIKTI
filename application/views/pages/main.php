@@ -90,9 +90,9 @@
         <div class="col-lg-12">
           <div class="skills-content">
             <div class="row">
-              <div class="col-lg-3">
+              <div class="col-lg-2">
                 <div class="skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
-                  <div class="progress" data-percentage="80">
+                  <div class="progress" data-percentage="100">
                     <span class="progress-left">
                       <span class="progress-bar"></span>
                     </span>
@@ -101,16 +101,16 @@
                     </span>
                     <div class="progress-value">
                       <div>
-                        80%<br>
-                        <span>HTML/CSS/JS</span>
+                        98<br>
+                        <span>Universitas</span>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-              <div class="col-lg-3">
-                <div class="skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
-                  <div class="progress" data-percentage="60">
+              <div class="col-lg-2">
+                <div class="skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
+                  <div class="progress" data-percentage="100">
                     <span class="progress-left">
                       <span class="progress-bar"></span>
                     </span>
@@ -119,16 +119,16 @@
                     </span>
                     <div class="progress-value">
                       <div>
-                        60%<br>
-                        <span>Wordpress</span>
+                        19<br>
+                        <span>Institusi</span>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-              <div class="col-lg-3">
-                <div class="skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.4s">
-                  <div class="progress" data-percentage="90">
+              <div class="col-lg-2">
+                <div class="skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
+                  <div class="progress" data-percentage="100">
                     <span class="progress-left">
                       <span class="progress-bar"></span>
                     </span>
@@ -137,16 +137,16 @@
                     </span>
                     <div class="progress-value">
                       <div>
-                        90%<br>
-                        <span>Marketing</span>
+                        202<br>
+                        <span>Sekolah Tinggi</span>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-              <div class="col-lg-3">
-                <div class="skill-item last-skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.6s">
-                  <div class="progress" data-percentage="70">
+              <div class="col-lg-2">
+                <div class="skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
+                  <div class="progress" data-percentage="100">
                     <span class="progress-left">
                       <span class="progress-bar"></span>
                     </span>
@@ -155,13 +155,50 @@
                     </span>
                     <div class="progress-value">
                       <div>
-                        70%<br>
-                        <span>Photoshop</span>
+                        84<br>
+                        <span>Akademik</span>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
+              <div class="col-lg-2">
+                <div class="skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
+                  <div class="progress" data-percentage="100">
+                    <span class="progress-left">
+                      <span class="progress-bar"></span>
+                    </span>
+                    <span class="progress-right">
+                      <span class="progress-bar"></span>
+                    </span>
+                    <div class="progress-value">
+                      <div>
+                        41<br>
+                        <span>Politeknik</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-2">
+                <div class="skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
+                  <div class="progress" data-percentage="100">
+                    <span class="progress-left">
+                      <span class="progress-bar"></span>
+                    </span>
+                    <span class="progress-right">
+                      <span class="progress-bar"></span>
+                    </span>
+                    <div class="progress-value">
+                      <div>
+                        5<br>
+                        <span>Akademi Komunitas</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
             </div>
           </div>
         </div>
