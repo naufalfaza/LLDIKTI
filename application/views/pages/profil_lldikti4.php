@@ -8,6 +8,7 @@
                 <div class="section-heading">
                   <h6>PROFIL</h6>
                   <h2>LLDIKTI Wilayah IV</h2>
+                  <hr>
                 </div>
               </div>
               <div class="col-lg-3">

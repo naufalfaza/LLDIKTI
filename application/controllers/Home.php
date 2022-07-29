@@ -22,6 +22,12 @@ class Home extends CI_Controller {
 		$this->load->view('structure/foot');
 	}
 
+	function layanan_1() {
+		$this->load->view('structure/head');
+		$this->load->view('pages/layanan_online');
+		$this->load->view('structure/foot');
+	}
+
 	function berita() {
 		$this->load->view('structure/head');
 		$this->load->view('pages/berita');
@@ -31,6 +37,11 @@ class Home extends CI_Controller {
 	function akuntabilitas() {
 		$this->load->view('structure/head');
 		$this->load->view('pages/akuntabilitas');
+	}
+	
+	function info() {
+		$this->load->view('structure/head');
+		$this->load->view('pages/info');
 		$this->load->view('structure/foot');
 	}
 }
