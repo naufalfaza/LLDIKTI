@@ -16,7 +16,7 @@
                   </div>
                   <div class="col-lg-12">
                     <div class="main-blue-button scroll-to-section">
-                      <a href="#contact">Baca Selengkapnya</a>
+                      <a href="<?= site_url('Home/profil_1') ?>">Baca Selengkapnya</a>
                     </div>
                   </div>
                 </div>
@@ -47,7 +47,7 @@
                   <div class="icon"></div>
                   <h4>SPTJM online</h4>
                   <div class="line-dec"></div>
-                  <a href="" class="text-black" rel="nofollow" target="_blank">Baca Selengkapnya <i class="fas fa-arrow-left"></i></a>
+                  <a href="" class="text-black" rel="nofollow" target="_blank">Baca Selengkapnya <i class="fas fa-arrow-right"></i></a>
                 </div>
               </div>
               <div class="col-lg-3">
@@ -58,7 +58,7 @@
                   <div class="icon"></div>
                   <h4>Digilibrary</h4>
                   <div class="line-dec"></div>
-                  <a href="" rel="nofollow" target="_blank">Baca Selengkapnya <i class="fas fa-arrow-left"></i></a>
+                  <a href="" rel="nofollow" target="_blank">Baca Selengkapnya <i class="fas fa-arrow-right"></i></a>
                 </div>
               </div>
               <div class="col-lg-3">
@@ -69,7 +69,7 @@
                   <div class="icon"></div>
                   <h4>Jurnal LLDIKTI</h4>
                   <div class="line-dec"></div>
-                  <a href="" rel="nofollow" target="_blank">Baca Selengkapnya <i class="fas fa-arrow-left"></i></a>
+                  <a href="" rel="nofollow" target="_blank">Baca Selengkapnya <i class="fas fa-arrow-right"></i></a>
                 </div>
               </div>
               <div class="col-lg-3">
@@ -80,7 +80,7 @@
                   <div class="icon"></div>
                   <h4>Buletin LLDIKTI</h4>
                   <div class="line-dec"></div>
-                  <a href="" rel="nofollow" target="_blank">Baca Selengkapnya <i class="fas fa-arrow-left"></i></a>
+                  <a href="" rel="nofollow" target="_blank">Baca Selengkapnya <i class="fas fa-arrow-right"></i></a>
                   
                 </div>
               </div>
@@ -206,6 +206,97 @@
     </div>
   </div>
 
+  <div id="portfolio" class="our-portfolio section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-5">
+          <div class="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+            <h6><hr></h6>
+            <h2>Gallery <span>Kami</span></h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="loop owl-carousel">
+            <div class="item">
+              <div class="portfolio-item">
+                <div class="thumb">
+                  <img src="https://i0.wp.com/www.lldikti4.id/wp-content/uploads/2022/05/P1000420-scaled.jpg?fit=2560%2C1438&ssl=1" alt="">
+                  <div class="hover-content">
+                    <div class="inner-content">
+                      <a href="#"><h4>Awesome Project 101</h4></a>
+                      <span>LLDIKTI 4</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="portfolio-item">
+                <div class="thumb">
+                  <img src="https://i0.wp.com/www.lldikti4.id/wp-content/uploads/2022/05/P1000421-scaled.jpg?fit=2560%2C1438&ssl=1" alt="">
+                  <div class="hover-content">
+                    <div class="inner-content">
+                      <a href="#"><h4>Foto Sample</h4></a>
+                      <span>LLDIKTI 4</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="portfolio-item">
+                <div class="thumb">
+                  <img src="https://i0.wp.com/www.lldikti4.id/wp-content/uploads/2022/05/P1000422-scaled.jpg?fit=2560%2C1438&ssl=1" alt="">
+                  <div class="hover-content">
+                    <div class="inner-content">
+                      <a href="#"><h4>Foto Sample</h4></a>
+                      <span>LLDIKTI 4</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="portfolio-item">
+                <div class="thumb">
+                  <img src="https://i0.wp.com/www.lldikti4.id/wp-content/uploads/2022/05/P1000426-scaled.jpg?fit=2560%2C1438&ssl=1" alt="">
+                  <div class="hover-content">
+                    <div class="inner-content">
+                      <a href="#"><h4>Awesome Project 101</h4></a>
+                      <span>LLDIKTI 4</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="portfolio-item">
+                <div class="thumb">
+                  <img src="https://i0.wp.com/www.lldikti4.id/wp-content/uploads/2022/05/P1000489-scaled.jpg?fit=2560%2C1438&ssl=1" alt="">
+                  <div class="hover-content">
+                    <div class="inner-content">
+                      <a href="#"><h4>Foto Sample</h4></a>
+                      <span>LLDIKTI 4</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="portfolio-item">
+                <div class="thumb">
+                  <img src="https://i0.wp.com/www.lldikti4.id/wp-content/uploads/2022/05/DSC07026-scaled.jpg?fit=2560%2C1440&ssl=1" alt="">
+                  <div class="hover-content">
+                    <div class="inner-content">
+                      <a href="#"><h4>Foto Sample</h4></a>
+                      <span>LLDIKTI 4</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <div id="contact" class="contact-us section">
     <div class="container">
       <div class="row">
@@ -215,34 +306,14 @@
               <div class="col-lg-6 offset-lg-3">
                 <div class="section-heading">
                   <h6>Contact Us</h6>
-                  <h2>Fill Out The Form Below To <span>Get</span> In <em>Touch</em> With Us</h2>
+                  <h2>Lebih Dekat Dengan Kami Dengan Berlangganan Kabar Berita Terbaru</h2>
                 </div>
               </div>
               <div class="col-lg-9">
                 <div class="row">
-                  <div class="col-lg-6">
-                    <fieldset>
-                      <input type="name" name="name" id="name" placeholder="Name" autocomplete="on" required>
-                    </fieldset>
-                  </div>
-                  <div class="col-lg-6">
-                    <fieldset>
-                      <input type="surname" name="surname" id="surname" placeholder="Surname" autocomplete="on" required>
-                    </fieldset>
-                  </div>
-                  <div class="col-lg-6">
-                    <fieldset>
-                      <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*" placeholder="Your Email" required="">
-                    </fieldset>
-                  </div>
-                  <div class="col-lg-6">
-                    <fieldset>
-                      <input type="subject" name="subject" id="subject" placeholder="Subject" autocomplete="on">
-                    </fieldset>
-                  </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <textarea name="message" type="text" class="form-control" id="message" placeholder="Message" required=""></textarea>  
+                      <input type="name" name="name" id="name" placeholder="Name" autocomplete="on" required>
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
@@ -257,21 +328,21 @@
                   <ul>
                     <li>
                       <div class="icon">
-                        <img src="assets/images/contact-icon-01.png" alt="email icon">
+                        <img src="<?= base_url('assets/images/contact-icon-01.png') ?>" alt="email icon">
                       </div>
-                      <a href="#">info@company.com</a>
+                      <a href="#">informasi@lldikti4.or.id</a>
                     </li>
                     <li>
                       <div class="icon">
-                        <img src="assets/images/contact-icon-02.png" alt="phone">
+                        <img src="<?= base_url('assets/images/contact-icon-02.png') ?>" alt="phone">
                       </div>
-                      <a href="#">+001-002-0034</a>
+                      <p>022-727-5630</p>
                     </li>
                     <li>
                       <div class="icon">
-                        <img src="assets/images/contact-icon-03.png" alt="location">
+                        <img src="<?= base_url('assets/images/contact-icon-03.png') ?>" alt="location">
                       </div>
-                      <a href="#">26th Street, Digital Villa</a>
+                      <a href="https://bit.ly/3qf80Ad">Whatsapp</a>
                     </li>
                   </ul>
                 </div>
