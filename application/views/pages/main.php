@@ -6,30 +6,17 @@
             <div class="col-lg-6 align-self-center">
               <div class="left-content header-text wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1s">
                 <div class="row">
-                  <div class="col-lg-4 col-sm-4">
+                  <div class="col-lg-12 col-sm-12">
                     <div class="info-stat">
-                      <h6>Agency Status:</h6>
-                      <h4>Ready Work</h4>
-                    </div>
-                  </div>
-                  <div class="col-lg-4 col-sm-4">
-                    <div class="info-stat">
-                      <h6>Price:</h6>
-                      <h4>$720/Month</h4>
-                    </div>
-                  </div>
-                  <div class="col-lg-4 col-sm-4">
-                    <div class="info-stat">
-                      <h6>Schedules</h6>
-                      <h4>$450/Meeting</h4>
+                      <h6>LLDIKTI mempunyai tugas membantu peningkatan mutu penyelenggaraan pendidikan tinggi baik perguruan tinggi negeri maupun perguruan tinggi swasta di wilayah kerjanya.</h6>
                     </div>
                   </div>
                   <div class="col-lg-12">
-                    <h2>SEO &amp; Digital Marketing Agency</h2>
+                    <h2>Selamat Datang di Lembaga Layanan Pendidikan Tinggi Wilayah 4 <br>Jawa Barat Dan Banten</h2>
                   </div>
                   <div class="col-lg-12">
-                    <div class="main-green-button scroll-to-section">
-                      <a href="#contact">Get Your Quote</a>
+                    <div class="main-blue-button scroll-to-section">
+                      <a href="#contact">Baca Selengkapnya</a>
                     </div>
                   </div>
                 </div>
@@ -37,7 +24,7 @@
             </div>
             <div class="col-lg-6">
               <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                <img src="assets/images/banner-right-image.png" alt="">
+                <img src="https://i0.wp.com/www.lldikti4.id/wp-content/uploads/2022/04/hardiknas-2022-01-rev-1.png?fit=2084%2C2084&ssl=1" alt="">
               </div>
             </div>
           </div>
@@ -58,9 +45,9 @@
                     <h6>01</h6>
                   </div>
                   <div class="icon"></div>
-                  <h4>Reach Out</h4>
+                  <h4>SPTJM online</h4>
                   <div class="line-dec"></div>
-                  <p>This HTML5 template is based on Bootstrap 5 CSS. You are free to customize anything.</p>
+                  <a href="" class="text-black" rel="nofollow" target="_blank">Baca Selengkapnya <i class="fas fa-arrow-left"></i></a>
                 </div>
               </div>
               <div class="col-lg-3">
@@ -69,9 +56,9 @@
                     <h6>02</h6>
                   </div>
                   <div class="icon"></div>
-                  <h4>Develop a Strategy</h4>
+                  <h4>Digilibrary</h4>
                   <div class="line-dec"></div>
-                  <p>Lorem ipsum dolor sit ameter consectetur adipiscing li elit sed do eiusmod.</p>
+                  <a href="" rel="nofollow" target="_blank">Baca Selengkapnya <i class="fas fa-arrow-left"></i></a>
                 </div>
               </div>
               <div class="col-lg-3">
@@ -80,9 +67,9 @@
                     <h6>03</h6>
                   </div>
                   <div class="icon"></div>
-                  <h4>Implementation</h4>
+                  <h4>Jurnal LLDIKTI</h4>
                   <div class="line-dec"></div>
-                  <p>If this template is useful for your website, please consider to <a rel="nofollow" href="https://www.paypal.me/templatemo" target="_blank">support us</a> a little.</p>
+                  <a href="" rel="nofollow" target="_blank">Baca Selengkapnya <i class="fas fa-arrow-left"></i></a>
                 </div>
               </div>
               <div class="col-lg-3">
@@ -91,9 +78,10 @@
                     <h6>04</h6>
                   </div>
                   <div class="icon"></div>
-                  <h4>Analyze the result</h4>
+                  <h4>Buletin LLDIKTI</h4>
                   <div class="line-dec"></div>
-                  <p>Below circular progress bar animation supports those CSS values 10, 20, 30, till 100.</p>
+                  <a href="" rel="nofollow" target="_blank">Baca Selengkapnya <i class="fas fa-arrow-left"></i></a>
+                  
                 </div>
               </div>
             </div>

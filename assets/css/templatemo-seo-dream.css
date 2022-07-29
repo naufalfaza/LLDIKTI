@@ -902,14 +902,15 @@ Banner Style
   margin-top: 30px;
   padding-top: 20px;
   margin-bottom: 45px;
-  font-size: 60px;
+  font-size: 30px;
   font-weight: 800;
   color: #2a2a2a;
   line-height: 72px;
   background: #FA9D4D;
-  background: -webkit-linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%);
-  background: -moz-linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%);
-  background: linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%);
+
+  background: -webkit-linear-gradient(to right, #4D70FA 0%, #3613B3 100%);
+  background: -moz-linear-gradient(to right, #4D70FA 0%, #3613B3 100%);
+  background: linear-gradient(to right, #4D70FA 0%, #3613B3 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
