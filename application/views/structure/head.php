@@ -71,7 +71,7 @@
               </li>
               <li class="scroll-to-section"><a href="#features">Info</a></li>
               <li class="scroll-to-section"><a href="#">Akuntabilitas</a></li>
-              <li class="scroll-to-section"><a href="#">Berita</a></li>
+              <li class="scroll-to-section"><a href="<?= site_url('Home/berita') ?>">Berita</a></li>
               <li class="scroll-to-section">
                 <div class="dropdown-center">
                   <a href="#" class="active dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Layanan</a>

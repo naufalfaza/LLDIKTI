@@ -21,4 +21,10 @@ class Home extends CI_Controller {
 		$this->load->view('pages/profil_kepala_lldikti4');
 		$this->load->view('structure/foot');
 	}
+
+	function berita() {
+		$this->load->view('structure/head');
+		$this->load->view('pages/berita');
+		$this->load->view('structure/foot');
+	}
 }
