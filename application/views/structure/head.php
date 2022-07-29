@@ -4,7 +4,7 @@
   <head>
 
     <meta charset="UTF-8">
-    <link rel="icon" href="assets/images/icon_tutwuri.png">
+    <link rel="icon" href="<?= base_url('assets/images/icon_tutwuri.png') ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -14,14 +14,14 @@
     <title>LLDIKTI Wilayah 4 - Lembang Layanan Perguruan Tinggi Wilayah 4</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?= base_url('vendor/bootstrap/css/bootstrap.min.css') ?>" rel="stylesheet">
 
 
     <!-- Additional CSS Files -->
-    <link rel="stylesheet" href="assets/css/fontawesome.css">
-    <link rel="stylesheet" href="assets/css/templatemo-seo-dream.css">
-    <link rel="stylesheet" href="assets/css/animated.css">
-    <link rel="stylesheet" href="assets/css/owl.css">
+    <link rel="stylesheet" href="<?= base_url('assets/css/fontawesome.css') ?>">
+    <link rel="stylesheet" href="<?= base_url('assets/css/templatemo-seo-dream.css') ?>">
+    <link rel="stylesheet" href="<?= base_url('assets/css/animated.css') ?>">
+    <link rel="stylesheet" href="<?= base_url('assets/css/owl.css') ?>">
 
 </head>
 
@@ -47,8 +47,8 @@
         <div class="col-12">
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
-            <a href="#" class="logo">
-              <img src="https://i0.wp.com/www.lldikti4.id/wp-content/uploads/2021/09/LLDIKTI-LOGOrev1-1.png?resize=300%2C56&ssl=1" style="width: 80%; justify-conten: center; padding: 18px">
+            <a href="<?= site_url('Home') ?>" class="logo">
+              <img src="https://i0.wp.com/www.lldikti4.id/wp-content/uploads/2021/09/LLDIKTI-LOGOrev1-1.png?resize=300%2C56&ssl=1" style="width: 80%; justify-conten: center; padding: 20px;">
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
@@ -57,8 +57,12 @@
                 <div class="dropdown-center">
                   <a href="#top" class="active dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Profil</a>
                   <ul class="dropdown-menu">
-                    <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">Profil LLDIKTI 4</button></li>
-                    <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">Profil Kepala LLDIKTI 4</button></li>
+                    <li style="padding: 0px 20px;">
+                      <a href="<?= site_url('Home/profil_1') ?>" style="padding: 0px 0px;"><button class="dropdown-item" type="button">Profil LLDIKTI 4</button></a>
+                    </li>
+                    <li style="padding: 0px 20px;">
+                      <a href="<?= site_url('Home/profil_2') ?>" style="padding: 0px 0px;"><button class="dropdown-item" type="button">Profil Kepala LLDIKTI 4</button></a>
+                    </li>
                   </ul>
                 </div>
               </li>
