@@ -16,7 +16,7 @@
                   </div>
                   <div class="col-lg-12">
                     <div class="main-blue-button scroll-to-section">
-                      <a href="#contact">Baca Selengkapnya</a>
+                      <a href="<?= site_url('Home/profil_1') ?>">Baca Selengkapnya</a>
                     </div>
                   </div>
                 </div>
@@ -47,7 +47,7 @@
                   <div class="icon"></div>
                   <h4>SPTJM online</h4>
                   <div class="line-dec"></div>
-                  <a href="" class="text-black" rel="nofollow" target="_blank">Baca Selengkapnya <i class="fas fa-arrow-left"></i></a>
+                  <a href="" class="text-black" rel="nofollow" target="_blank">Baca Selengkapnya <i class="fas fa-arrow-right"></i></a>
                 </div>
               </div>
               <div class="col-lg-3">
@@ -58,7 +58,7 @@
                   <div class="icon"></div>
                   <h4>Digilibrary</h4>
                   <div class="line-dec"></div>
-                  <a href="" rel="nofollow" target="_blank">Baca Selengkapnya <i class="fas fa-arrow-left"></i></a>
+                  <a href="" rel="nofollow" target="_blank">Baca Selengkapnya <i class="fas fa-arrow-right"></i></a>
                 </div>
               </div>
               <div class="col-lg-3">
@@ -69,7 +69,7 @@
                   <div class="icon"></div>
                   <h4>Jurnal LLDIKTI</h4>
                   <div class="line-dec"></div>
-                  <a href="" rel="nofollow" target="_blank">Baca Selengkapnya <i class="fas fa-arrow-left"></i></a>
+                  <a href="" rel="nofollow" target="_blank">Baca Selengkapnya <i class="fas fa-arrow-right"></i></a>
                 </div>
               </div>
               <div class="col-lg-3">
@@ -80,7 +80,7 @@
                   <div class="icon"></div>
                   <h4>Buletin LLDIKTI</h4>
                   <div class="line-dec"></div>
-                  <a href="" rel="nofollow" target="_blank">Baca Selengkapnya <i class="fas fa-arrow-left"></i></a>
+                  <a href="" rel="nofollow" target="_blank">Baca Selengkapnya <i class="fas fa-arrow-right"></i></a>
                   
                 </div>
               </div>
@@ -90,9 +90,9 @@
         <div class="col-lg-12">
           <div class="skills-content">
             <div class="row">
-              <div class="col-lg-3">
+              <div class="col-lg-2">
                 <div class="skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
-                  <div class="progress" data-percentage="80">
+                  <div class="progress" data-percentage="100">
                     <span class="progress-left">
                       <span class="progress-bar"></span>
                     </span>
@@ -101,16 +101,16 @@
                     </span>
                     <div class="progress-value">
                       <div>
-                        80%<br>
-                        <span>HTML/CSS/JS</span>
+                        98<br>
+                        <span>Universitas</span>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-              <div class="col-lg-3">
-                <div class="skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
-                  <div class="progress" data-percentage="60">
+              <div class="col-lg-2">
+                <div class="skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
+                  <div class="progress" data-percentage="100">
                     <span class="progress-left">
                       <span class="progress-bar"></span>
                     </span>
@@ -119,16 +119,16 @@
                     </span>
                     <div class="progress-value">
                       <div>
-                        60%<br>
-                        <span>Wordpress</span>
+                        19<br>
+                        <span>Institusi</span>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-              <div class="col-lg-3">
-                <div class="skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.4s">
-                  <div class="progress" data-percentage="90">
+              <div class="col-lg-2">
+                <div class="skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
+                  <div class="progress" data-percentage="100">
                     <span class="progress-left">
                       <span class="progress-bar"></span>
                     </span>
@@ -137,16 +137,16 @@
                     </span>
                     <div class="progress-value">
                       <div>
-                        90%<br>
-                        <span>Marketing</span>
+                        202<br>
+                        <span>Sekolah Tinggi</span>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-              <div class="col-lg-3">
-                <div class="skill-item last-skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.6s">
-                  <div class="progress" data-percentage="70">
+              <div class="col-lg-2">
+                <div class="skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
+                  <div class="progress" data-percentage="100">
                     <span class="progress-left">
                       <span class="progress-bar"></span>
                     </span>
@@ -155,172 +155,50 @@
                     </span>
                     <div class="progress-value">
                       <div>
-                        70%<br>
-                        <span>Photoshop</span>
+                        84<br>
+                        <span>Akademik</span>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+              <div class="col-lg-2">
+                <div class="skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
+                  <div class="progress" data-percentage="100">
+                    <span class="progress-left">
+                      <span class="progress-bar"></span>
+                    </span>
+                    <span class="progress-right">
+                      <span class="progress-bar"></span>
+                    </span>
+                    <div class="progress-value">
+                      <div>
+                        41<br>
+                        <span>Politeknik</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-2">
+                <div class="skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
+                  <div class="progress" data-percentage="100">
+                    <span class="progress-left">
+                      <span class="progress-bar"></span>
+                    </span>
+                    <span class="progress-right">
+                      <span class="progress-bar"></span>
+                    </span>
+                    <div class="progress-value">
+                      <div>
+                        5<br>
+                        <span>Akademi Komunitas</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
 
-  <div id="about" class="about-us section">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-6">
-          <div class="left-image wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
-            <img src="assets/images/about-left-image.png" alt="">
-          </div>
-        </div>
-        <div class="col-lg-6 align-self-center wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-          <div class="section-heading">
-            <h6>About Us</h6>
-            <h2>Top <em>marketing</em> agency &amp; consult your website <span>with us</span></h2>
-          </div>
-          <div class="row">
-            <div class="col-lg-4 col-sm-4">
-              <div class="about-item">
-                <h4>750+</h4>
-                <h6>projects finished</h6>
-              </div>
-            </div>
-            <div class="col-lg-4 col-sm-4">
-              <div class="about-item">
-                <h4>340+</h4>
-                <h6>happy clients</h6>
-              </div>
-            </div>
-            <div class="col-lg-4 col-sm-4">
-              <div class="about-item">
-                <h4>128+</h4>
-                <h6>awards</h6>
-              </div>
-            </div>
-          </div>
-          <p><a rel="nofollow" href="https://templatemo.com/tm-563-seo-dream" target="_parent">SEO Dream</a> is free digital marketing CSS template provided by TemplateMo website. You are allowed to use this template for your business websites. Please DO NOT redistribute this template ZIP file on any Free CSS collection websites. You may contact us for more information. Thank you.</p>
-          <div class="main-green-button"><a href="#">Discover company</a></div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div id="services" class="our-services section">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-6 offset-lg-3">
-          <div class="section-heading wow bounceIn" data-wow-duration="1s" data-wow-delay="0.2s">
-            <h6>Our Services</h6>
-            <h2>Discover What We Do &amp; <span>Offer</span> To Our <em>Clients</em></h2>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-lg-4">
-          <div class="service-item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.3s">
-            <div class="row">
-              <div class="col-lg-4">
-                <div class="icon">
-                  <img src="assets/images/service-icon-01.png" alt="">
-                </div>
-              </div>
-              <div class="col-lg-8">
-                <div class="right-content">
-                  <h4>Similar Websites</h4>
-                  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dormque laudantium.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="service-item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.4s">
-            <div class="row">
-              <div class="col-lg-4">
-                <div class="icon">
-                  <img src="assets/images/service-icon-02.png" alt="">
-                </div>
-              </div>
-              <div class="col-lg-8">
-                <div class="right-content">
-                  <h4>Website Trends</h4>
-                  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dormque laudantium.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="service-item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.5s">
-            <div class="row">
-              <div class="col-lg-4">
-                <div class="icon">
-                  <img src="assets/images/service-icon-03.png" alt="">
-                </div>
-              </div>
-              <div class="col-lg-8">
-                <div class="right-content">
-                  <h4>Traffic Analysis</h4>
-                  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dormque laudantium.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="service-item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.6s">
-            <div class="row">
-              <div class="col-lg-4">
-                <div class="icon">
-                  <img src="assets/images/service-icon-03.png" alt="">
-                </div>
-              </div>
-              <div class="col-lg-8">
-                <div class="right-content">
-                  <h4>Optimizing Keywords</h4>
-                  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dormque laudantium.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="service-item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.7s">
-            <div class="row">
-              <div class="col-lg-4">
-                <div class="icon">
-                  <img src="assets/images/service-icon-01.png" alt="">
-                </div>
-              </div>
-              <div class="col-lg-8">
-                <div class="right-content">
-                  <h4>Page Optimizations</h4>
-                  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dormque laudantium.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="service-item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.8s">
-            <div class="row">
-              <div class="col-lg-4">
-                <div class="icon">
-                  <img src="assets/images/service-icon-02.png" alt="">
-                </div>
-              </div>
-              <div class="col-lg-8">
-                <div class="right-content">
-                  <h4>Deep URL Analysis</h4>
-                  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dormque laudantium.</p>
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -333,8 +211,8 @@
       <div class="row">
         <div class="col-lg-5">
           <div class="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
-            <h6>Our Portofolio</h6>
-            <h2>Discover Our Recent <em>Projects</em> And <span>Showcases</span></h2>
+            <h6><hr></h6>
+            <h2>Gallery <span>Kami</span></h2>
           </div>
         </div>
       </div>
@@ -346,46 +224,33 @@
             <div class="item">
               <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio-01.jpg" alt="">
+                  <img src="https://i0.wp.com/www.lldikti4.id/wp-content/uploads/2022/05/P1000420-scaled.jpg?fit=2560%2C1438&ssl=1" alt="">
                   <div class="hover-content">
                     <div class="inner-content">
                       <a href="#"><h4>Awesome Project 101</h4></a>
-                      <span>Marketing</span>
+                      <span>LLDIKTI 4</span>
                     </div>
                   </div>
                 </div>
               </div>
               <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio-04.jpg" alt="">
+                  <img src="https://i0.wp.com/www.lldikti4.id/wp-content/uploads/2022/05/P1000421-scaled.jpg?fit=2560%2C1438&ssl=1" alt="">
                   <div class="hover-content">
                     <div class="inner-content">
-                      <a href="#"><h4>Awesome Project 102</h4></a>
-                      <span>Branding</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="portfolio-item">
-                <div class="thumb">
-                  <img src="assets/images/portfolio-02.jpg" alt="">
-                  <div class="hover-content">
-                    <div class="inner-content">
-                      <a href="#"><h4>Awesome Project 103</h4></a>
-                      <span>Consulting</span>
+                      <a href="#"><h4>Foto Sample</h4></a>
+                      <span>LLDIKTI 4</span>
                     </div>
                   </div>
                 </div>
               </div>
               <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio-05.jpg" alt="">
+                  <img src="https://i0.wp.com/www.lldikti4.id/wp-content/uploads/2022/05/P1000422-scaled.jpg?fit=2560%2C1438&ssl=1" alt="">
                   <div class="hover-content">
                     <div class="inner-content">
-                      <a href="#"><h4>Awesome Project 104</h4></a>
-                      <span>Artwork</span>
+                      <a href="#"><h4>Foto Sample</h4></a>
+                      <span>LLDIKTI 4</span>
                     </div>
                   </div>
                 </div>
@@ -394,46 +259,33 @@
             <div class="item">
               <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio-03.jpg" alt="">
+                  <img src="https://i0.wp.com/www.lldikti4.id/wp-content/uploads/2022/05/P1000426-scaled.jpg?fit=2560%2C1438&ssl=1" alt="">
                   <div class="hover-content">
                     <div class="inner-content">
-                      <a href="#"><h4>Awesome Project 105</h4></a>
-                      <span>Branding</span>
+                      <a href="#"><h4>Awesome Project 101</h4></a>
+                      <span>LLDIKTI 4</span>
                     </div>
                   </div>
                 </div>
               </div>
               <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio-06.jpg" alt="">
+                  <img src="https://i0.wp.com/www.lldikti4.id/wp-content/uploads/2022/05/P1000489-scaled.jpg?fit=2560%2C1438&ssl=1" alt="">
                   <div class="hover-content">
                     <div class="inner-content">
-                      <a href="#"><h4>Awesome Project 106</h4></a>
-                      <span>Artwork</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="portfolio-item">
-                <div class="thumb">
-                  <img src="assets/images/portfolio-04.jpg" alt="">
-                  <div class="hover-content">
-                    <div class="inner-content">
-                      <a href="#"><h4>Awesome Project 107</h4></a>
-                      <span>Creative</span>
+                      <a href="#"><h4>Foto Sample</h4></a>
+                      <span>LLDIKTI 4</span>
                     </div>
                   </div>
                 </div>
               </div>
               <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio-01.jpg" alt="">
+                  <img src="https://i0.wp.com/www.lldikti4.id/wp-content/uploads/2022/05/DSC07026-scaled.jpg?fit=2560%2C1440&ssl=1" alt="">
                   <div class="hover-content">
                     <div class="inner-content">
-                      <a href="#"><h4>Awesome Project 108</h4></a>
-                      <span>Consulting</span>
+                      <a href="#"><h4>Foto Sample</h4></a>
+                      <span>LLDIKTI 4</span>
                     </div>
                   </div>
                 </div>
@@ -454,34 +306,14 @@
               <div class="col-lg-6 offset-lg-3">
                 <div class="section-heading">
                   <h6>Contact Us</h6>
-                  <h2>Fill Out The Form Below To <span>Get</span> In <em>Touch</em> With Us</h2>
+                  <h2>Lebih Dekat Dengan Kami Dengan Berlangganan Kabar Berita Terbaru</h2>
                 </div>
               </div>
               <div class="col-lg-9">
                 <div class="row">
-                  <div class="col-lg-6">
-                    <fieldset>
-                      <input type="name" name="name" id="name" placeholder="Name" autocomplete="on" required>
-                    </fieldset>
-                  </div>
-                  <div class="col-lg-6">
-                    <fieldset>
-                      <input type="surname" name="surname" id="surname" placeholder="Surname" autocomplete="on" required>
-                    </fieldset>
-                  </div>
-                  <div class="col-lg-6">
-                    <fieldset>
-                      <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*" placeholder="Your Email" required="">
-                    </fieldset>
-                  </div>
-                  <div class="col-lg-6">
-                    <fieldset>
-                      <input type="subject" name="subject" id="subject" placeholder="Subject" autocomplete="on">
-                    </fieldset>
-                  </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <textarea name="message" type="text" class="form-control" id="message" placeholder="Message" required=""></textarea>  
+                      <input type="name" name="name" id="name" placeholder="Name" autocomplete="on" required>
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
@@ -496,21 +328,21 @@
                   <ul>
                     <li>
                       <div class="icon">
-                        <img src="assets/images/contact-icon-01.png" alt="email icon">
+                        <img src="<?= base_url('assets/images/contact-icon-01.png') ?>" alt="email icon">
                       </div>
-                      <a href="#">info@company.com</a>
+                      <a href="#">informasi@lldikti4.or.id</a>
                     </li>
                     <li>
                       <div class="icon">
-                        <img src="assets/images/contact-icon-02.png" alt="phone">
+                        <img src="<?= base_url('assets/images/contact-icon-02.png') ?>" alt="phone">
                       </div>
-                      <a href="#">+001-002-0034</a>
+                      <p>022-727-5630</p>
                     </li>
                     <li>
                       <div class="icon">
-                        <img src="assets/images/contact-icon-03.png" alt="location">
+                        <img src="<?= base_url('assets/images/contact-icon-03.png') ?>" alt="location">
                       </div>
-                      <a href="#">26th Street, Digital Villa</a>
+                      <a href="https://bit.ly/3qf80Ad">Whatsapp</a>
                     </li>
                   </ul>
                 </div>

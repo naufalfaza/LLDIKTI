@@ -10,8 +10,8 @@
     <meta name="author" content="">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
-
-    <title>LLDIKTI Wilayah 4 - Lembaga Layanan Perguruan Tinggi Wilayah 4</title>
+    
+    <title>LLDIKTI Wilayah 4 - Lembanga Layanan Perguruan Tinggi Wilayah 4</title>
 
     <!-- Bootstrap core CSS -->
     <link href="<?= base_url('vendor/bootstrap/css/bootstrap.min.css') ?>" rel="stylesheet">
@@ -22,6 +22,9 @@
     <link rel="stylesheet" href="<?= base_url('assets/css/templatemo-seo-dream.css') ?>">
     <link rel="stylesheet" href="<?= base_url('assets/css/animated.css') ?>">
     <link rel="stylesheet" href="<?= base_url('assets/css/owl.css') ?>">
+
+    <!-- FontAwesome V5 (KIT BY NAUFAL FAZA FADHILAH) INI NGAMBIL DARI ONLINE-->
+    <script src="https://kit.fontawesome.com/54dc7623fb.js" crossorigin="anonymous"></script>
 
 </head>
 
@@ -66,12 +69,12 @@
                   </ul>
                 </div>
               </li>
-              <li class="scroll-to-section"><a href="<?= site_url('Home/info_1') ?>">Info</a></li>
-              <li class="scroll-to-section"><a href="#about">Akuntabilitas</a></li>
-              <li class="scroll-to-section"><a href="#services">Berita</a></li>
+              <li class="scroll-to-section"><a href="#features">Info</a></li>
+              <li class="scroll-to-section"><a href="#">Akuntabilitas</a></li>
+              <li class="scroll-to-section"><a href="<?= site_url('Home/berita') ?>">Berita</a></li>
               <li class="scroll-to-section">
                 <div class="dropdown-center">
-                  <a href="#top" class="dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Layanan</a>
+                  <a href="#" class="active dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Layanan</a>
                   <ul class="dropdown-menu">
                     <li style="padding: 0px 20px;">
                       <a href="<?= site_url('Home/layanan_1') ?>" style="padding: 0px 0px;"><button class="dropdown-item" type="button">Layanan Online</button></a>
@@ -87,7 +90,7 @@
               </li>
               <li class="scroll-to-section">
                 <div class="dropdown-center">
-                  <a href="#top" class="dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Informasi Publik</a>
+                  <a href="#" class="active dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Informasi Publik</a>
                   <ul class="dropdown-menu">
                     <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">Standar Pelayanan Publik</button></li>
                     <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">Produk Hukum</button></li>
