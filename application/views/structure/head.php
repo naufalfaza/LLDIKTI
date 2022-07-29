@@ -4,6 +4,7 @@
   <head>
 
     <meta charset="UTF-8">
+    <link rel="icon" href="assets/images/icon_tutwuri.png">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -46,19 +47,52 @@
         <div class="col-12">
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
-            <a href="index.html" class="logo">
-              <img  src="https://i0.wp.com/www.lldikti4.id/wp-content/uploads/2021/09/LLDIKTI-LOGOrev1-1.png?resize=300%2C56&ssl=1" style="margin-top: 14px">
+            <a href="#" class="logo">
+              <img src="https://i0.wp.com/www.lldikti4.id/wp-content/uploads/2021/09/LLDIKTI-LOGOrev1-1.png?resize=300%2C56&ssl=1" style="margin-top: 14px">
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
-              <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
-              <li class="scroll-to-section"><a href="#features">Features</a></li>
-              <li class="scroll-to-section"><a href="#about">About Us</a></li>
-              <li class="scroll-to-section"><a href="#services">Services</a></li>
-              <li class="scroll-to-section"><a href="#portfolio">Portfolio</a></li>
-              <li class="scroll-to-section"><a href="#contact">Contact Us</a></li> 
-              <li class="scroll-to-section"><div class="main-blue-button"><a href="#contact">Get Your Quote</a></div></li> 
+              <li class="scroll-to-section">
+                <div class="dropdown-center">
+                  <a href="#top" class="active dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Profil</a>
+                  <ul class="dropdown-menu">
+                    <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">Profil LLDIKTI 4</button></li>
+                    <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">Profil Kepala LLDIKTI 4</button></li>
+                  </ul>
+                </div>
+              </li>
+              <li class="scroll-to-section"><a href="#features">Info</a></li>
+              <li class="scroll-to-section"><a href="#about">Akuntabilitas</a></li>
+              <li class="scroll-to-section"><a href="#services">Berita</a></li>
+              <li class="scroll-to-section">
+                <div class="dropdown-center">
+                  <a href="#top" class="active dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Layanan</a>
+                  <ul class="dropdown-menu">
+                    <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">Layanan Online</button></li>
+                    <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">Layanan Kami</button></li>
+                    <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">Cara Pengajuan Layanan</button></li>
+                  </ul>
+                </div>
+              </li>
+              <li class="scroll-to-section">
+                <div class="dropdown-center">
+                  <a href="#top" class="active dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Informasi Publik</a>
+                  <ul class="dropdown-menu">
+                    <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">Standar Pelayanan Publik</button></li>
+                    <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">Produk Hukum</button></li>
+                    <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">PPID</button></li>
+                    <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">Prosedur Operasional Standar</button></li>
+                    <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">Peta Proses Bisnis LLDIKTI Wilayah IV</button></li>
+                    <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">Buku Panduan / Pedoman</button></li>
+                    <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">Materi Kegiatan</button></li>
+                    <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">Buletin LLDIKTI Wilayah IV</button></li>
+                    <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">Buku Direktori PTS LLDIKTI IV</button></li>
+                    <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">Buku Statistik Perguruan Tinggi</button></li>
+                  </ul>
+                </div>
+              </li>
+              <li class="scroll-to-section"><div class="main-blue-button"><a href="#contact">Kontak & Pengaduan</a></div></li> 
             </ul>        
             <a class='menu-trigger'>
                 <span>Menu</span>
