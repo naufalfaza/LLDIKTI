@@ -33,4 +33,10 @@ class Home extends CI_Controller {
 		$this->load->view('pages/berita');
 		$this->load->view('structure/foot');
 	}
+
+	function info() {
+		$this->load->view('structure/head');
+		$this->load->view('pages/info');
+		$this->load->view('structure/foot');
+	}
 }

@@ -69,7 +69,7 @@
                   </ul>
                 </div>
               </li>
-              <li class="scroll-to-section"><a href="#features">Info</a></li>
+              <li class="scroll-to-section"><a href="<?= site_url('Home/info') ?>">Info</a></li>
               <li class="scroll-to-section"><a href="#">Akuntabilitas</a></li>
               <li class="scroll-to-section"><a href="<?= site_url('Home/berita') ?>">Berita</a></li>
               <li class="scroll-to-section">
