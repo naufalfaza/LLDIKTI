@@ -27,4 +27,10 @@ class Home extends CI_Controller {
 		$this->load->view('pages/berita');
 		$this->load->view('structure/foot');
 	}
+
+	function akuntabilitas() {
+		$this->load->view('structure/head');
+		$this->load->view('pages/akuntabilitas');
+		$this->load->view('structure/foot');
+	}
 }
