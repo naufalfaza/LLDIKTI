@@ -69,8 +69,8 @@
                   </ul>
                 </div>
               </li>
-              <li class="scroll-to-section"><a href="<?= site_url('Home/akuntabilitas') ?>">Akuntabilitas</a></li>
               <li class="scroll-to-section"><a href="<?= site_url('Home/info') ?>">Info</a></li>
+              <li class="scroll-to-section"><a href="<?= site_url('Home/akuntabilitas') ?>">Akuntabilitas</a></li>
               <li class="scroll-to-section"><a href="<?= site_url('Home/berita') ?>">Berita</a></li>
               <li class="scroll-to-section">
                 <div class="dropdown-center">
@@ -80,10 +80,10 @@
                       <a href="<?= site_url('Home/layanan_1') ?>" style="padding: 0px 0px;"><button class="dropdown-item" type="button">Layanan Online</button></a>
                     </li>
                     <li style="padding: 0px 20px;">
-                      <a href="<?= site_url('Home/layanan_1') ?>" style="padding: 0px 0px;"><button class="dropdown-item" type="button">Layanan Kami</button></a>
+                      <a href="<?= site_url('Home/layanan_2') ?>" style="padding: 0px 0px;"><button class="dropdown-item" type="button">Layanan Kami</button></a>
                     </li>
                     <li style="padding: 0px 20px;">
-                      <a href="<?= site_url('Home/layanan_1') ?>" style="padding: 0px 0px;"><button class="dropdown-item" type="button">Cara Pengajuan Layanan</button></a>
+                      <a href="<?= site_url('Home/layanan_3') ?>" style="padding: 0px 0px;"><button class="dropdown-item" type="button">Cara Pengajuan Layanan</button></a>
                     </li>
                   </ul>
                 </div>
