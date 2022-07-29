@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
-    
+
     <title>LLDIKTI Wilayah 4 - Lembanga Layanan Perguruan Tinggi Wilayah 4</title>
 
     <!-- Bootstrap core CSS -->
@@ -58,7 +58,7 @@
             <ul class="nav">
               <li class="scroll-to-section">
                 <div class="dropdown-center">
-                  <a href="#top" class="dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Profil</a>
+                  <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Profil</a>
                   <ul class="dropdown-menu">
                     <li style="padding: 0px 20px;">
                       <a href="<?= site_url('Home/profil_1') ?>" style="padding: 0px 0px;"><button class="dropdown-item" type="button">Profil LLDIKTI 4</button></a>
@@ -74,7 +74,7 @@
               <li class="scroll-to-section"><a href="<?= site_url('Home/berita') ?>">Berita</a></li>
               <li class="scroll-to-section">
                 <div class="dropdown-center">
-                  <a href="#" class="active dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Layanan</a>
+                  <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Layanan</a>
                   <ul class="dropdown-menu">
                     <li style="padding: 0px 20px;">
                       <a href="<?= site_url('Home/layanan_1') ?>" style="padding: 0px 0px;"><button class="dropdown-item" type="button">Layanan Online</button></a>
@@ -90,7 +90,7 @@
               </li>
               <li class="scroll-to-section">
                 <div class="dropdown-center">
-                  <a href="#" class="active dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Informasi Publik</a>
+                  <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Informasi Publik</a>
                   <ul class="dropdown-menu">
                     <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">Standar Pelayanan Publik</button></li>
                     <li style="padding: 0px 20px;"><button class="dropdown-item" type="button">Produk Hukum</button></li>
